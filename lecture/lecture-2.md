@@ -11,7 +11,7 @@ Date: July 8, 2026
 
 * It says that we should state the thesis at the beginning but can we start with a lead in?
 * Should we include distinct evidence for counterargument
-* **Should the thesis include the B1 and B2**
+* **Should #eohe thesis include the B1 and B2**
 
 ### Action Items
 
@@ -48,8 +48,6 @@ Date: July 8, 2026
 * CA2: I use a VPN for increased security
 * R2: Network traffic is already encrypted
 * Concl: People often default to consumer-based VPNs due to their popularity but there are often better solutions for each specific usecase.
-
-
 
 Are you committing online crimes or conducting some sort of shady business that you don't want others to see?
 

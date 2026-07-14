@@ -71,8 +71,49 @@ COMPAS used for b + s -> trgtd racially/econ prev marg groups
 * COMPAS
 
   * More detail about COMPAS
+    * It is ris assessment tool that uses a survey to calculate a risk score.
   * More detail about the scandal + fact check it
-  * Is it still being used today?
+    * Investigative journalists uncovered the bias
+    * Black defendants who did not re-offend were nearly twice as likely to be misclassified as "high risk" compared to white defendants
+    * The software was not altered to account for the bias.
+  * Is it still being used today? -> it is still being actively used
   * Mention that this is an example of it being used, not the only possible way to use it
 * More detail about NNs
-* "racially profilling" -> is this correct?
+* AI-generated fixes:
+
+  * [HIGH] "biased towards marginalized groups" → "biased **against** marginalized groups" (B1, first sentence). "Towards" reads as favoring them — the opposite of your point.
+  * [HIGH] State the rebuttal's punchline explicitly: **"you cannot correct a bias you cannot see."** Right now B2 shows opacity but never says why it defeats the "just fix it" counterargument — the fix requires inspecting the model, which opacity makes impossible.
+  * [HIGH] Add the ethics framing to the conclusion: freedom is denied **before trial, while still presumed innocent** → this demands **due process / fairness** the algorithm cannot provide. (Strongest ethical punch, currently missing.)
+  * [MEDIUM] Typos: "inherit bias" → "inher**ent**"; "those those" → "those"; "life changing" → "life-changing".
+  * [MEDIUM] Keep your planned COMPAS additions — ProPublica "~twice as likely" stat, "investigative journalists uncovered it," "not altered afterward," "still actively used." The "still used" point proves opacity insulates bias from consequences.
+  * [MEDIUM] Keep the "this is one example, not the only use" line — it answers the prompt's "specific application" framing.
+  * [LOW] Add one nod to the article (prompt requires an application *from* it): a clause like "as Acemoglu warns, AI is already used for bail decisions." Currently the source is never mentioned.
+  * [LOW] "racial profiling" → "racial bias/disparities" (profiling is a specific policing practice, not what the algorithm does).
+  * [NOTE] If you only remember three: (1) "biased **against**", (2) say **"you can't fix a bias you can't see"**, (3) add **"presumed innocent / due process"** to the conclusion.
+
+---
+
+### Concise Notes to Remember:
+
+**1. Top 3 (if nothing else):**
+
+1. "biased **against**" (not "towards")
+2. Rebuttal: **"you can't fix a bias you can't see"**
+3. Conclusion: **"presumed innocent / due process"** -> bail jails people before trial, while presumed innocent. Human judge can explain and be appealed while an algorithm cannot.
+
+**2. Thesis:** harmful → should NOT be adopted. Two reasons: inherent bias + opaque.
+
+**3. COMPAS:**
+
+- What: risk-assessment tool; survey → risk score.
+- Scandal: investigative journalists (ProPublica) found Black defendants who did NOT reoffend were **~twice** as likely to be mislabeled "high risk."
+- NOT FIXED AFTERWARDS: Still **actively used** today (→ opacity shields bias from consequences).
+- It's **one example**, not the only possible use.
+
+**4. Quick wins:** typos → "inher**ent**", "those" (not "those those"), "life-changing". "racial profiling" → "racial bias". Nod to article: "as Acemoglu warns, AI is already used for bail."
+
+**5. Accuracy guardrails:** say "**nearly twice**" (no invented numbers).
+
+~~**4. Rebuttal (opacity):** "just fix the bias" fails — **can't correct a bias you can't see.** COMPAS = trade secret; neural nets = opaque even to creators.~~
+
+~~**4. Conclusion:** bail jails people **before trial, while presumed innocent** → demands **due process / fairness** a black box can't give. Human judge can explain & be appealed; algorithm can't~~.

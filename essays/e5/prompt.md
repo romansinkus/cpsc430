@@ -1,0 +1,8 @@
+
+Questions:
+
+1. Q1: Answer one of the following essay questions using a workable ethical theory:
+   A university course is built around a unique instructional design developed through ongoing teaching research. To support this, the course relies on a web application developed by graduate students, which was released as open-source software for academic and research purposes. A business-minded undergraduate student in the course sees commercial potential in the platform, copies the code, makes small improvements, and launches an edtech startup selling the system to different universities. Is it ethical for the student to build and sell this commercial product based on software created for educational research purposes?
+   A Youtube film critic posts a monetized video reviewing a recent blockbuster movie, using short clips to support their analysis. The movie studio’s automated copyright system immediately flags the video, demonetizing it and forcing the creator into a difficult appeals process known to favor the studio. Is it ethical for companies to deploy automated systems that suppress legitimate criticism and fair use, even if they are highly efficient at protecting their intellectual property?
+   Napster, launched in 1999, was one of the first peer-to-peer file sharing platforms that allowed millions of users to share music for free. Is it ethical for someone to use a service like Napster to download music without paying for it?
+   Some context for Youtube demonetization (note that this is a very opinionated article that’s clearly arguing for one side): https://www.eff.org/wp/unfiltered-how-youtubes-content-id-discourages-fair-use-and-dictates-what-we-see-online

@@ -1,0 +1,12 @@
+
+Given foreign government censorship demands, Apple has the option to comply and stay, or refuse and ultimately exit. Under rule utilitarianism, it is ethical for Apple to comply and remove apps from the App Store to continue business in foreign countries.
+
+Refusing to remove banned apps from the app store does not benefit anyone. Certain social media, news, and even VPN applications are already firewall-blocked by China, meaning that even if Apple refuses removal of these from the App Store, this doesn't make them usable. Therefore, despite the potential effort to push back, there is no offsetting benefit. From a rule utilitarian perspective, refusal does not add any positive components to the calculus of the decision making process.
+
+If Apple refuses to comply, users would switch to less secure devices with heavy surveillance including Apple users with no intention of using banned applications. If Apple refuses to pull certain applications, China would simply prohibit the usage of the App Store and therefore iPhones altogether. This action would result in users switching to alternatives with far less security. A 2021 Lithuanian audit found built-in censorship and data harvesting on Chinese phones. Therefore if Apple refuses to comply, it would not only result in a lack of tangible benefit, but also a significant harm to users being forced out of the Apple ecosystem. Thus, "refuse-and-exit" supplies no benefits over "comply-to-stay" but poses a significant disadvantage resulting in the rule utilitarian calculus indicating a far greater negative outcome for "refuse-and-exit".
+
+One may argue the "comply-to-stay" decision would result in the censorship normalization and result in a larger-scale downside as it's adopted, tipping the calculus scale in favor of "refuse-and-exit". Theoretically this is bullet-proof as this would leave countries with no choice but to retract censorship demands, but this fail's Quinn's "workable" test: companies would not band together as one to challenge censorship due to market competition. In 2010, Google refused to comply with censorship laws and ultimately exited, however Baidu gladly stepped up to take their place while accepting government censorship demands.
+
+Despite the "comply-to-stay" option feeling like surrender, rule utilitarianism boils down to the calculus behind decision making; despite both decisions resulting in negative outcomes, complying serves as the "least" negative and therefore the ethical decision.
+
+---
